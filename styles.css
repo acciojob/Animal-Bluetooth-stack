@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+#container{
+	height: auto;
+	width:auto;
+	background:#5A5A5A;
+	border-radius: 10px;
+}
+
+#container h1{
+	color: white;
+	text-align: center;
+}
+
+#container img{
+	height: 180px;
+	border-radius: 15px;
+	padding: 5px 10px 5px 10px;
+}
